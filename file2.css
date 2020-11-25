@@ -1,0 +1,24 @@
+.ce{
+			
+		font-size:200%;
+		margin-left:50px;
+		
+}
+.plot{
+		float:left;
+		width:40%;
+		height:40%;
+}
+.clear-float{
+		clear:both;
+}
+
+body{
+		border:0;
+		padding:0;
+		 background-image:url('pexels.jpg');
+        background-size:cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+}
+	

@@ -1,0 +1,11 @@
+.navbar{
+    background-color: #5cb85c;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: white;
+    padding-left: 15 px;
+}
+.navbar-header a{
+    color: white;
+}
